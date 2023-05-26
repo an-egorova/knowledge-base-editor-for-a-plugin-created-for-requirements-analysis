@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Редактор базы знаний\bin\Debug\Редактор базы знаний.exe.config
+C:\Users\User\source\repos\Редактор базы знаний\bin\Debug\Редактор базы знаний.exe
+C:\Users\User\source\repos\Редактор базы знаний\bin\Debug\Редактор базы знаний.pdb
+C:\Users\User\source\repos\Редактор базы знаний\obj\Debug\Редактор базы знаний.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Редактор базы знаний\obj\Debug\Редактор_базы_знаний.Properties.Resources.resources
+C:\Users\User\source\repos\Редактор базы знаний\obj\Debug\Редактор базы знаний.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Редактор базы знаний\obj\Debug\Редактор базы знаний.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Редактор базы знаний\obj\Debug\Редактор базы знаний.exe
+C:\Users\User\source\repos\Редактор базы знаний\obj\Debug\Редактор базы знаний.pdb
+C:\Users\User\source\repos\Редактор базы знаний\obj\Debug\Редактор_базы_знаний.Form1.resources
